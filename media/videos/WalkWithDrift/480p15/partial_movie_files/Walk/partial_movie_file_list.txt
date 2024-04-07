@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/blupo/Downloads/BrownMotionPres/media/videos/WalkWithDrift/480p15/partial_movie_files/Walk/3163782288_27276802_3470958610.mp4'
+file 'file:C:/Users/blupo/Downloads/BrownMotionPres/media/videos/WalkWithDrift/480p15/partial_movie_files/Walk/2201830969_3213241947_1785766942.mp4'
+file 'file:C:/Users/blupo/Downloads/BrownMotionPres/media/videos/WalkWithDrift/480p15/partial_movie_files/Walk/2201830969_1295175463_1580345125.mp4'
+file 'file:C:/Users/blupo/Downloads/BrownMotionPres/media/videos/WalkWithDrift/480p15/partial_movie_files/Walk/2201830969_3007919740_919686519.mp4'
